@@ -5,7 +5,7 @@ export const Ga = () => {
       <h1 className="a text-3xl">CV Professionnel</h1>
       <hr />
       <div class="B" className='flex '>
-        <img
+      <img
           src='Images/ANA.jpeg'
           alt="Photo de profil"
           className="w-20 ml-5"/>
