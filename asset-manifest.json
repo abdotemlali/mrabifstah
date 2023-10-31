@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/abdotemlali/mrabi/static/css/main.80b59b82.css",
+    "main.js": "/abdotemlali/mrabi/static/js/main.8ebf2026.js",
+    "static/js/787.16ed3a83.chunk.js": "/abdotemlali/mrabi/static/js/787.16ed3a83.chunk.js",
+    "index.html": "/abdotemlali/mrabi/index.html",
+    "main.80b59b82.css.map": "/abdotemlali/mrabi/static/css/main.80b59b82.css.map",
+    "main.8ebf2026.js.map": "/abdotemlali/mrabi/static/js/main.8ebf2026.js.map",
+    "787.16ed3a83.chunk.js.map": "/abdotemlali/mrabi/static/js/787.16ed3a83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80b59b82.css",
+    "static/js/main.8ebf2026.js"
+  ]
+}
