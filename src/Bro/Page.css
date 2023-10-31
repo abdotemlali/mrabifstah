@@ -1,0 +1,35 @@
+#submit{
+    margin:auto;
+  }
+  input{
+    border-radius: 5px;
+    height: 30px;
+    width: 270px;
+    border-radius: 12px;
+  }
+  textarea{
+    border-radius: 5px;
+    height: 100px;
+    width: 270px;
+    border-radius: 20px;
+  }
+  div{
+
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    backdrop-filter: blur(10px);
+    text-align: center;
+    margin: auto;
+    margin-bottom: 20px;
+    padding: 20px;
+  }
+
+  
+  input,textarea{
+    cursor: pointer;
+    border: solid black;
+ 
+    padding: 8px;
+
+}
